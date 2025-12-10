@@ -8,17 +8,42 @@ Développeur passionné, ma compétence se situe à la jonction du développemen
 
 ##  Ma Boîte à Outils Technique
 
-Voici un aperçu des langages, frameworks et outils que j'utilise régulièrement :
+🔧 **Langages & Outils**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
+</p>
 
-| Catégorie | Technologies Clés |
-| :--- | :--- |
-| **Langages** | Python, Java, TypeScript, C, SQL, Bash |
-| **Backend & API** | FastAPI, Node.js, PySpark |
-| **Frontend** | Angular, Bootstrap |
-| **Bases de Données** | PostgreSQL, MongoDB, Cassandra, Neo4j |
-| **Data Science / ML** | NumPy, Pandas, Scikit-Learn, PyTorch, Matplotlib, Seaborn |
-| **DevOps & Cloud** | Git, Docker, Kubernetes, Linux, AWS, CI/CD |
+🖥️ **Backend & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+</p>
 
+🌐 **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+</p>
+
+🤖 **Machine Learning & Data**
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+</p>
+
+🛠️ **DevOps & Environnement**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+</p>
 ---
 
 ##  À savoir (Projets Privés)
